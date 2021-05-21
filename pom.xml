@@ -19,7 +19,7 @@
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
         <hutool.version>5.6.5</hutool.version>
         <cglib.version>3.3.0</cglib.version>
-        <spring-boot.version>2.4.5</spring-boot.version>
+        <spring-boot.version>2.5.0</spring-boot.version>
         <compiler.version>3.8.1</compiler.version>
     </properties>
 
